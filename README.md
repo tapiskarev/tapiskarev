@@ -10,20 +10,20 @@ Looking forward to contributing and collaborating with the vibrant GitHub commun
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/tim72348546#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/tim72348546#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/tim72348546)
+[![website](./img/twitter-dark.svg)](https://twitter.com/tim72348546)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/saggerhahah#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/saggerhahah#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/saggerhahah)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/saggerhahah)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@timeth7799#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@timeth7799#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/@timeth7799)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/@timeth7799)
 &nbsp;&nbsp;
-[![website](./img/github-light.svg)](https://github.com/tapiskarev#gh-light-mode-only)
-[![website](./img/github-dark.svg)](https://github.com/tapiskarev#gh-dark-mode-only)
+[![website](./img/github-light.svg)](https://github.com/tapiskarev)
+[![website](./img/github-dark.svg)](https://github.com/tapiskarev)
 
 ### Languages and Tools
 
