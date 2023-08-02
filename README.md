@@ -13,8 +13,8 @@ Looking forward to contributing and collaborating with the vibrant GitHub commun
 [![website](./img/twitter-light.svg)](https://twitter.com/tim72348546#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/tim72348546#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tim-piskarev-97a750286/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tim-piskarev-97a750286/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/saggerhahah#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/saggerhahah#gh-dark-mode-only)
