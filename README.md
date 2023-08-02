@@ -1,8 +1,6 @@
-### Hello everyone!
+### Hello everyone! 🌎🌍🌏
 
 I am a developer with a focus on algorithmic trading systems, quantum trading, and cryptocurrency investments. My expertise lies in developing cutting-edge strategies and solutions for the financial markets, combining my knowledge of programming, math and finance. 
-
-I thrive on the challenges of implementing quantitative models and exploring innovative trading approaches. With a strong foundation in algorithm development and a keen interest in the evolving landscape of cryptocurrencies, I am dedicated to creating robust and efficient solutions for trading and investment. 
 
 Looking forward to contributing and collaborating with the vibrant GitHub community!
 
