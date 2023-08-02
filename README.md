@@ -6,6 +6,19 @@ I am a developer with a focus on algorithmic trading systems, quantum trading, a
 
 Looking forward to contributing and collaborating with the vibrant GitHub community!
 
+---
+
+### Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<br />
+
+#
+
+
 <!--
 **tapiskarev/tapiskarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
