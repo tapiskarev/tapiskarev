@@ -1,6 +1,6 @@
 ### Hello everyone! 🌎🌍🌏
 
-**`TimEth (Developer/Trader/Creator)`**
+**`FatTailsOwner (Developer/Trader/Mathematician)`**
 
 I am a developer with a focus on algorithmic trading systems, quantum trading, and cryptocurrency investments. My expertise lies in developing cutting-edge strategies and solutions for the financial markets, combining my knowledge of programming, math and finance. 
 
