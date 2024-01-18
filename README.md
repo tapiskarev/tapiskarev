@@ -19,8 +19,8 @@ Looking forward to contributing and collaborating with the vibrant GitHub commun
 [![website](./img/instagram-light.svg)](https://www.instagram.com/saggerhahah#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/saggerhahah#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@timeth7799#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@timeth7799#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/@TimBnb-gm1vg#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/@TimBnb-gm1vg#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/github-light.svg)](https://github.com/tapiskarev#gh-light-mode-only)
 [![website](./img/github-dark.svg)](https://github.com/tapiskarev#gh-dark-mode-only)
