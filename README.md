@@ -2,7 +2,7 @@
 
 **`FatTailsOwner (Mathematician/Developer/Trader)`**
 
-I am a developer with a focus on algorithmic trading systems, web3 technologies, and cryptocurrencies. 
+I am a developer with a focus on algorithmic trading, web3 technologies, and cryptocurrencies. 
 
 Looking forward to contributing and collaborating with the vibrant GitHub community!
 
